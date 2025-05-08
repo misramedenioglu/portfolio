@@ -14,3 +14,5 @@ Portföy sitesinde aşağıdaki bölümler yer almaktadır:
 - HTML5
 - CSS
 
+canlı link bağlantısı
+https://681c6537a0b398d463466a78--misra-portfolio.netlify.app/
